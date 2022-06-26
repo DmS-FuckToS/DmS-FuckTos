@@ -1,6 +1,9 @@
 <h1 align="center">Hi, soy $Dm$ 👋</h1>
 
 <div align="center">
+  <img src="https://cdn.discordapp.com/emojis/945146332249731112.gif?size=56&quality=lossless"></img>
+
+<div align="center">
 
   [![wakatime](https://wakatime.com/badge/user/198b5788-cbba-42f5-814a-88c514254ee6/project/c3a8d81d-498c-4097-ba86-013aa960533a.svg)](https://wakatime.com/@0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9)
   ![](https://komarev.com/ghpvc/?username=verlox&color=blueviolet)
