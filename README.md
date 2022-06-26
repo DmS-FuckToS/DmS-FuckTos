@@ -1,7 +1,7 @@
 <h1 align="center">Hi, soy $Dm$ 👋</h1>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/emojis/945146332249731112.gif?size=56&quality=lossless"></img>
+  <img src="https://media.discordapp.net/attachments/986388494081491008/990410262546878524/945146332249731112.gif"></img>
 
 <div align="center">
 
