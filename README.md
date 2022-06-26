@@ -2,6 +2,9 @@
 
 <div align="center">
   <img src="https://media.discordapp.net/attachments/986388494081491008/990410262546878524/945146332249731112.gif"></img>
+  
+## Visitas
+![Visitor Count](https://profile-counter.glitch.me/DmS-FuckTos/count.svg)
 
 <div align="center">
 
