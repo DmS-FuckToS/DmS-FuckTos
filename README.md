@@ -7,7 +7,7 @@
 
   <img src="https://discord.c99.nl/widget/theme-3/975374860668784660.png"></img>
 
-  ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dm-FuckToS&show_icons=true&theme=radical)
+  ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmS-FuckToS&show_icons=true&theme=radical)
 </div>
 <h1 align="center">🎶Escuchando Spotify🎶 </h1>
 
@@ -23,4 +23,4 @@ Soy $Dm$. Estoy aprendiendo idiomas, llevo en la plataforma de Discord +3 años.
 
 <h1 align="center">Repositorios</h1>
 
-* [Discord Server Cloner](https://github.com/Dm-FuckToS/$Dm$-Modified-Cloner)
+* [Discord Server Cloner](https://github.com/DmS-FuckToS/$Dm$-Modified-Cloner)
