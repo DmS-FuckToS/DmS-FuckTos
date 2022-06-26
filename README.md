@@ -5,9 +5,6 @@
 
 <div align="center">
 
-  [![wakatime](https://wakatime.com/badge/user/198b5788-cbba-42f5-814a-88c514254ee6/project/c3a8d81d-498c-4097-ba86-013aa960533a.svg)](https://wakatime.com/@0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9)
-  ![](https://komarev.com/ghpvc/?username=verlox&color=blueviolet)
-
   <img src="https://discord.c99.nl/widget/theme-3/975374860668784660.png"></img>
 
   ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmS-FuckToS&show_icons=true&theme=radical)
