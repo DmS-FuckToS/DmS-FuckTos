@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <img src="https://discord.c99.nl/widget/theme-3/975374860668784660.png"></img>
+  <img src="https://discord.c99.nl/widget/theme-5/995003611954282637.png"></img>
 
   ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmS-FuckToS&show_icons=true&theme=radical)
 </div>
